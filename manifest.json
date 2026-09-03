@@ -1,0 +1,78 @@
+{
+  "name": "Crop Cut Data",
+  "short_name": "Crop Cut Data",
+  "description": "কৃষি সম্প্রসারণ অধিদপ্তর — ফসলের নমুনা শস্য কর্তন ফরম (Crop Cut Data), PDF/প্রিন্ট/শেয়ার ও সংরক্ষণ সুবিধাসহ",
+  "start_url": "/index.html",
+  "id": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eee9d8",
+  "theme_color": "#00522b",
+  "lang": "bn",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ফরমের প্রথম অংশ — লোগো ও শিরোনাম"
+    },
+    {
+      "src": "/screenshot-2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "কৃষকের তথ্য ও ফসলের বিবরণ"
+    },
+    {
+      "src": "/screenshot-3.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ফলন ও আর্দ্রতার হিসাব"
+    },
+    {
+      "src": "/screenshot-4.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "হেক্টর প্রতি ফলন ও কৃষকের মতামত"
+    },
+    {
+      "src": "/screenshot-5.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "অন্যান্য কৃষকের ফলন ও স্বাক্ষরের ঘর"
+    },
+    {
+      "src": "/screenshot-6.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "সংরক্ষণ, PDF, প্রিন্ট ও শেয়ার বাটন"
+    }
+  ]
+}
